@@ -1,5 +1,6 @@
 # Planificador de Ataques para Risk
-Link repositorio: [](https://github.com/mariamunoznadales/estrategia_risk.git)
+Link repositorio: (https://github.com/mariamunoznadales/estrategia_risk.git)
+
 Este programa permite optimizar la estrategia de ataque en el juego Risk, con restricciones de recursos y fuerza.
 
 ## Reglas del Juego
